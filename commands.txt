@@ -1,7 +1,0 @@
-cd .\first-repo-for-case-studies\
-
-git add . #add all files
-git add "path to file" #to add one file only
-git commit -m "YOUR MESSAGE"#committ all changes, i.e create a commit in the history
-git push # push all your changess and new files to GitHub
-git status #see status
