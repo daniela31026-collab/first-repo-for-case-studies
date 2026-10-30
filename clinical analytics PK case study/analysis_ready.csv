@@ -1,0 +1,17 @@
+"Subject","Time_hr","Concentration_ng_mL","Study","SampleDate","Conc_Flag","Treatment","Sex","Weight_kg","Country","Assay","LLOQ_ng_mL","PlannedDose_mg","StudyStatus","Study_All_Metadata_Available","Has_Full_Demographics"
+"1001",0,0,"PK01","2026-01-15","OK","A","F",22.1,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1001",0.5,12.4,"PK01","2026-01-15","OK","A","F",22.1,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1001",1,18.6,"PK01","2026-01-15","OK","A","F",22.1,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1001",2,14.1,"PK01","2026-01-15","OK","A","F",22.1,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1002",0,NA,"PK01","2026-01-15","BLQ","A","M",19.8,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1002",0.5,10.8,"PK01","2026-01-15","OK","A","M",19.8,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1002",1,16.9,"PK01","2026-01-15","OK","A","M",19.8,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1003",0.5,11.7,"PK01","2026-01-15","OK","B","F",23.7,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1003",1,17.2,"PK01","2026-01-15","OK","B","F",23.7,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,TRUE
+"1004",0.5,NA,"PK01","2026-01-16","Missing","B","M",NA,"Germany","LC-MS/MS",0.5,5,"Completed",TRUE,FALSE
+"2001",0,0,"PK02","2026-02-03","OK","LOW","F",20.4,"Germany","LC-MS/MS",0.5,10,"Completed",TRUE,TRUE
+"2001",0.5,9.6,"PK02","2026-02-03","OK","LOW","F",20.4,"Germany","LC-MS/MS",0.5,10,"Completed",TRUE,TRUE
+"2001",1,15.2,"PK02","2026-02-03","OK","LOW","F",20.4,"Germany","LC-MS/MS",0.5,10,"Completed",TRUE,TRUE
+"2002",0.5,10.1,"PK02","2026-02-03","OK","LOW","M",21,"Germany","LC-MS/MS",0.5,10,"Completed",TRUE,TRUE
+"2002",1,NA,"PK02","2026-02-03","Below zero — implausible","LOW","M",21,"Germany","LC-MS/MS",0.5,10,"Completed",TRUE,TRUE
+"2003",1,13.7,"PK03","2026-02-03","OK",NA,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE
