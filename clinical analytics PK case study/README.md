@@ -1,6 +1,6 @@
 # PK Data Standardization Workflow
 
-## Purpose
+## Purpose and directon
 Combines three raw data sources (PK observations, subject demographics, 
 study metadata) into one standardized, analysis-ready table, while 
 preserving traceability of all corrections and flagging data 
